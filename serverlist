@@ -2,5 +2,9 @@
  {
   "server_name": "رنجر رول پلی",
   "server_address": "5.42.223.207:7777"
+ },
+ {
+  "server_name": "آلفا رول پلی",
+  "server_address": "SA-MP.IR:7777"
  }
 ]
