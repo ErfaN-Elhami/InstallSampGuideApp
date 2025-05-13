@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "SAMP 0.3.7-R4",
+    "description": "آخرین نسخه پایدار کلاینت سمپ برای کامپیوتر",
+    "fileSize": "۱۴.۲ مگابایت",
+    "version": "نسخه 0.3.7-R4",
+    "date": "۱۴۰۱/۱۲/۱۰",
+    "downlink": "https://example.com/samp-pc-0.3.7-r4.exe ",
+    "verified": true,
+    "imageUrl": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg "
+  },
+  {
+    "id": "2",
+    "title": "SAMP Launcher",
+    "description": "لانچر پیشرفته سمپ با قابلیت مدیریت سرورها",
+    "fileSize": "۸.۵ مگابایت",
+    "version": "نسخه 1.2.3",
+    "date": "۱۴۰۲/۰۱/۲۰",
+    "downlink": "https://example.com/samp-launcher-1.2.3.exe ",
+    "verified": false,
+    "imageUrl": "https://images.pexels.com/photos/207580/pexels-photo-207580.jpeg "
+  }
+]
