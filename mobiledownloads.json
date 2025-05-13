@@ -9,27 +9,5 @@
     "downlink": "https://example.com/samp-android-0.4.2.apk ",
     "verified": true,
     "imageUrl": "https://img.utdstc.com/icon/b35/68d/b3568d059657d0ee7c0268a601a7a33008b8024a50d439799dd74f7118a6340c:100"
-  },
-  {
-    "id": "2",
-    "title": "GTA:SA برای اندروید",
-    "description": "نسخه موبایل بازی GTA:SA سازگار با سمپ",
-    "fileSize": "۲.۱ گیگابایت",
-    "version": "نسخه 2.10",
-    "date": "۱۴۰۲/۰۲/۲۵",
-    "downlink": "https://example.com/gta-sa-android-2.10.apk ",
-    "verified": true,
-    "imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg "
-  },
-  {
-    "id": "3",
-    "title": "راهنمای جامع SAMP موبایل",
-    "description": "فایل PDF راهنمای کامل نصب و عیب‌یابی سمپ در اندروید",
-    "fileSize": "۱۵.۲ مگابایت",
-    "version": "نسخه 3.0",
-    "date": "۱۴۰۲/۰۳/۰۵",
-    "downlink": "https://example.com/samp-mobile-guide-v3.pdf ",
-    "verified": true,
-    "imageUrl": "https://images.pexels.com/photos/6740687/pexels-photo-6740687.jpeg "
   }
 ]
